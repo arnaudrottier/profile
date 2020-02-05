@@ -70,7 +70,7 @@ a {
   height: 250px;
   width:250px;
   background-position: center;
-  background-size: 250px 250px;
+  background-size: 240px 250px;
   border-radius: 50%;
 }
 #imageplaceholder:hover {
